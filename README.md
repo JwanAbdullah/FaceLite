@@ -5,7 +5,7 @@ FaceLite is a straightforward JavaFX program made to administer a minimal social
  
 
 ## Project Description
-A social network is a platform that connects individuals through user profiles and their friendship relationships. In the context of FaceLite, a profile represents an individual, and friendships are reciprocal relationships between profiles. For example, if Moath is friends with Saqar and Hasan, Saqar and Hasan are also considered friends with Moath.
+A social network functions as a platform where individuals establish connections through user profiles and reciprocal friendships. In the context of FaceLite, a profile represents an individual, and friendships indicate mutual relationships between profiles. When two individuals are friends on FaceLite, it implies a mutual connection, creating a network of shared associations within the platform.
  
 ## Project Objectives
 The primary objectives of the FaceLite project include:
