@@ -1,8 +1,9 @@
 # FaceLite Social Network Application
  
 ## Overview
-FaceLite is a simple JavaFX application designed to manage a basic social network. The application allows users to create, delete, and look up user profiles within the network. Each profile includes information such as the person's name, an optional profile image, a current status, and a list of friends.
+FaceLite is a straightforward JavaFX program made to administer a minimal social network. Users of the application can search for, add, and remove user profiles on the network. additionally, switch between the light and dark modes. A person's name, an optional profile picture, their current status, and a list of friends are all included in each profile.
  
+
 ## Project Description
 A social network is a platform that connects individuals through user profiles and their friendship relationships. In the context of FaceLite, a profile represents an individual, and friendships are reciprocal relationships between profiles. For example, if Moath is friends with Saqar and Hasan, Saqar and Hasan are also considered friends with Moath.
  
@@ -40,7 +41,7 @@ The primary objectives of the FaceLite project include:
 The application follows a simple Model-View-Controller (MVC) design. `FaceLiteApplication` serves as the entry point, `Controllers` manages UI behavior, and `DataBase` handles data operations.
  
 ## Testing
-No specific testing instructions are provided. The application's functionality can be manually tested by creating profiles, adding friends, updating status, and changing pictures.
+The application's functionality can be manually tested by creating profiles, deleting profiles, looking up profiles, adding friends, updating status, and changing pictures.
  
 ## Author
 Jana Alkahlan (s202242700) & Jwan Alghamdi (202246560)
