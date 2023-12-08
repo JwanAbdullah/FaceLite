@@ -43,4 +43,4 @@ The application follows a simple Model-View-Controller (MVC) design. `FaceLiteAp
 No specific testing instructions are provided. The application's functionality can be manually tested by creating profiles, adding friends, updating status, and changing pictures.
  
 ## Author
-[Your Name]
+Jana Alkahlan (s202242700) & Jwan Alghamdi (202246560)
