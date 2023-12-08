@@ -20,7 +20,7 @@ The primary objectives of the FaceLite project include:
 4. **Update Status:** Users can change the current status associated with their profile.
 5. **Update Profile Picture:** Users can add or change their profile picture.
 6. **Add Friend:** Users can add friends to their profile, and the friendship is reciprocal.
-7. **Light/Dark Mode: ** users to switch between light and dark color schemes
+7. **Light/Dark Mode:** users to switch between light and dark color schemes
  
 ## How to Run
 1. Clone the repository to your local machine.
